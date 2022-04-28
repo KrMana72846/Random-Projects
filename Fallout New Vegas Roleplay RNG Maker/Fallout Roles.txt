@@ -1,0 +1,79 @@
+1: Brotherhood Wannabe
+Tags: Energy Weapons, Science, Unarmed
+Traits: Terrifying Presence
+Condition:Fight with Energy Weapons and Power Fists.
+Join the Brotherhood of Steel.
+Wear Power Armor but not Salvaged Power Armor
+
+
+2: The Great Doctor
+Tags: Medicine, Science
+Traits: Good Natured
+Perks: Living Anatomy, Fast Metabolism, Life Giver, Chemist
+Condition: Ally yourself with the Followers of the Apocalypse.
+Always aid those in need.
+
+
+3: Minuteman
+Tags: Guns, Survival, & Repair or Medicine
+Traits: Trigger Disipline
+Perks: Commando, Travel Light, Sniper, Scounger, Grunt, Light Touch
+Condition: Use Rifles, Snipers, and Light Armor.
+Move during combat, avoid engaging the enemy head-on.
+Ammo Stashes are always a good idea.
+
+4: Gunslinger
+Tags: Gun, Speech, NOT Sneak, Science, or Energy Weapons
+Perks: Gunslinger, Cowboy, Quick Draw, Terrifying Presence
+Condition: Wear Cowboy hats
+You're upfront and you don't mince words, if you're there to kill someone you get right to it.
+Scotch and whisky are your drinks of choice, and you like your drinks
+
+
+5: 23rd Century Monk
+Tags: Unarmed, Survival, & Sneak or Speech
+Traits: Toughness x2, Stonewall, Super Slam, Piercing Strike, Unstoppable Force,
+Purifier, Paralyzing Palm, Ninja (if Sneak tagged), Slayer
+Condition: Using guns is against your religion, You are very devout.
+Learn as many of teh special unarmed moves as you can.
+You believe the holistic approach (foods & poultices) is always preferable to traditional medicine.
+
+6: Violent Retard
+Tags: Melee, Unarmed: 10 STR, 10 END, 1 INT, 1 CHA
+Condition: NO! Bad Hurt things that scary or confusing! Loud Noises NO!
+Talk little people laught at you!
+Pet da cute moe rats and lizads unless dey bite you
+
+
+
+7: Junkie
+Condition: You must always be on at leaast one addictive chem
+Spend all your money on chems first and formost
+If you are ever sober, make your first priority getting chems at any cost.
+Kill, steal, sell the clothes off your back, you need your fix.
+Do NOT take Logan's Loophole or any perks that add to Chem-Resistance,
+save for Big Brained if you play Old World Blues. 
+
+8: High Roller
+Tags: Barter, Speech
+Perks: Fortune Finder: Luck no greater than 5
+Condition: Wear a suit or dress in a casino, Always gamble when passing a casino or New Vegas
+If you're in New Vegas, don't leave until you've won 1000 caps or lost all the money you came with
+Buy all the food, entertainment, and lodging excess while in New Vegas. It's a party city, live a little!
+
+
+9: Big Game Hunter
+Tags: Guns, Survival
+Perks: Sneering Imperialist, Them's Good Eatin
+Condition: You'll communicate with the locals-even... Ghoul-but touching them with an ungloved hand is simply beneath you
+Common riff-raff like raiders and 'Powder Gangers' are demeaning to even look at, let alone aid. Rifles are the most efficient and elagant ways to kill.
+The bigger and more threatening the prey the more glory for you to seek
+Anything can be a meal when on the hunt!
+
+10: Hick
+Tags: Guns, Explosives, Repair
+Traits: Hot Blodded
+Perks: And Stay Back, Shotgun Surgeon, Cowboy, Hit the Deck, Splash Damage, Hand Loader, Jury Rigger, Junk Rounds: INT = 3
+Condition: Use dynamite and any shotgun 'cept that fancy-schmansy Riot Shotgun. You should also beat someone with a pipe, tire iron, baseball bat, or shovel.
+Don't accept NOBODY walkin' around on your property without your permission. Wear something nice and simple like a Field Hand outfit or Prospector outfit
+Cook you own food and make/repair you own gun & ammo as much as possible. Why buy when you make? Unless you're buying supplies to make stuff, that is.

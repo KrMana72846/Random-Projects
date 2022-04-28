@@ -1,0 +1,79 @@
+1: Rosie the Wrench Wench
+Tags: Repair, Melee, Science
+Perks: Hand Loader, Vigilant Recycler, Jury Rigger, Junk Rounds, Mad Bomber
+Condition: Use tool or part-like melee weapons (i.e.: pipe or hammer)
+Repair guns and Energy weapons compusively
+NEVER use full condition guns or Energy weapons, sell or display them
+
+
+2: Old World Gal
+Tags: Speech
+Traits: Good Natured, Early Bird
+Condition: Wear dresses when in town
+Always share a good piece of gossip
+
+
+
+3:Home Team Hitter
+Tags: Melee
+Perks: Cherchez La Femme, Old World Gourmet
+Condition: You drink like a man, fight like a man, and enjoy a fine pair of juggs like a man.
+Use a baseball bat for close-quarters combat
+
+
+
+4: Little Miss Smarty Pants
+Tags: Scince, Repair, Energy Weapons
+Traits: Four Eyes, Good Natured
+Perks: Nerd Rage, Math Wrath, Robotics Expert, Nuka Chemist, Certified Tech, Voracious Reader
+Condition: +INT, -STR, -END, -AGL
+
+
+
+5: The Killer Queen
+Tags: Speech, Energy Weapons, Explosives
+Traits: Good Natured, Trigger Discipline
+Perks: Black Widow, Old World Gourmet, SNiper, +PER
+Condition: Stick to Dynamite and Laserbeams
+
+
+
+6: Radiant Snow White
+Tags: Speech, Survival
+Traits: Good Natured
+Perks: Rad Child, Ferocious Loyalty, Animal Friend x2, Rad Resistance, Miss Fortune, Mysterious Stranger,
+Light Step, Rad Absorbption, Atomic!, Irradiated Beauty
+Condition: Avoid violence and conflict whenever possible, Be nice to all you meet, never speak a mean word
+Remain innocent in every sense of the word
+
+7: Twisted Sister
+Tags: Melee Weapons, Medicine
+Perks: Bloody Mess, Grim Reaper's Sprint, Cannibal, Ghastly Scavenger, Light Step, Friend of the Night
+Condition: Use bladed melee Weapons
+A Sundress is highly encouraged
+
+
+
+8: Homewrecker
+Tags: Melee Weapons, Lockpick, Stealth
+Condition: Whenever you begin to feel close to an NPC,
+you break into their home at night and take all their valuables.
+If you are caught in the act, stab or beat the target to death.
+
+
+
+9: Bouncing Betty
+Tags: Small Guns, Sneak, Speech
+Traits: Fast Shot, Black Widow
+Perks: Spray 'n Pray, Light Touch, Mad Bomber
+Condition: Fight by planting mines and spryaing automatics.
+Also bunny hop if you think it'll help.
+Take men for all they're worth, sex IS a weapon in your arsenal
+
+10: Pistol Packin' Mama
+Tags: Guns
+Perks: Black Widow, Gunslinger
+Condition: A pistol (or revolver) is all you need to get through life
+If your main companion is a male, show him all your affection, but show him your wrath should he express interet in others
+If your main Companion is female, shoose another female to be your "sub companion"
+Your rootin', tootin', shootin' trio uses pistols (Veronica can use laser or plasma pistols).
